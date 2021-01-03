@@ -9,6 +9,9 @@
  * 
  * What's Left?
  * Error messages for using Defuse and Nope too early
+ * Figure out a way to combine cat cards
+ * Finish cat card assets
+ * Only one exploding kitten
  */
 
 
